@@ -1,2 +1,2 @@
-# hardsyncVectorPhaseShaping
+# hardsync vector phase shaping
  
